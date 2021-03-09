@@ -1,2 +1,1 @@
-file name		extention	inputoutput
-primeFactor		cpp			a number	prime factors of the number
+primeFactor.cpp		input: a number		output: prime factors of the input number
